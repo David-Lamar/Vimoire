@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Vimoire
 
-## Getting Started
+Vimoire is a free, open-source game that helps you learn Vim. The title is a play on the word "Grimoire" (but Vim!)
 
-First, run the development server:
+## Gameplay
+Vimoire can be played for free [here](TODO). That is currently running on my home-server, though. So 
+if it's been hugged to death, my power's out, or whatever, you may want to build it locally. See the instructions below 
+for how to do that.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Configuration
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Creating/ Using custom assets
+- TODO: How to upload sprite sheets
+- TODO: How to upload sound effects
+- TODO: How to upload custom font(s)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Custom Configuration
+- TODO: Changing animation speeds
+- TODO: Resolution
+- TODO: Sprite + grid sizes
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Saving and Loading
+- TODO: Local storage
+- TODO: As a file
 
-## Learn More
+## Building from Source
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+-- TODO: Should GPL license this. Ensure that, if it's open sourced, it can only be used in open source projects.
