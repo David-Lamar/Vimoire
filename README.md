@@ -3,9 +3,7 @@
 Vimoire is a free, open-source game that helps you learn Vim. The title is a play on the word "Grimoire" (but Vim!)
 
 ## Gameplay
-Vimoire can be played for free [here](TODO). That is currently running on my home-server, though. So 
-if it's been hugged to death, my power's out, or whatever, you may want to build it locally. See the instructions below 
-for how to do that.
+Don't have anything ready to play yet -- still a hobby project I need to find time to work on!
 
 ## Configuration
 
@@ -28,5 +26,3 @@ for how to do that.
 
 ## Contributing
 
-## License
--- TODO: Should GPL license this. Ensure that, if it's open sourced, it can only be used in open source projects.
